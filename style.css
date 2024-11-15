@@ -62,8 +62,11 @@ p{
     padding: 5px;
     width: 70px;
     position: absolute;
-    right: 0px;
-    
+    right: 0px;   
+}
+#checkbox{
+  position: absolute;
+  margin-top: 3px;
 }
 @media  screen and (max-width:600px){
     
